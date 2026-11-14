@@ -1,5 +1,0 @@
-Student: MAHINAY
-Student ID: TUPM-26-4014
-Seed digit: 4
-ID sum: 17
-Verification value: 123
