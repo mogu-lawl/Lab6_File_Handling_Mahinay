@@ -1,0 +1,9 @@
+{
+    "target_year": "2019",
+    "total_records": 0,
+    "incidents_in_target_year": 0,
+    "count_per_attack_type": {},
+    "total_financial_loss_million_usd": 0.0,
+    "average_financial_loss_million_usd": 0.0,
+    "five_costliest_incidents": []
+}
