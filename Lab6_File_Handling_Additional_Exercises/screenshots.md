@@ -1,3 +1,6 @@
+## Github Link:
+https://github.com/mogu-lawl/Lab6_File_Handling_Mahinay/tree/activity6-additional-exercises/Lab6_File_Handling_Additional_Exercises
+
 ## APPENDIX 1:
 ![woah](./screenshots/exercise1.png)
 
