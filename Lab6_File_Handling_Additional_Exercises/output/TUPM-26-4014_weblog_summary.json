@@ -1,7 +1,34 @@
 {
-    "records_processed": 0,
+    "records_processed": 1017,
     "target_status_class": "2xx",
-    "records_in_target_class": 0,
-    "status_counts": {},
-    "five_most_requested_urls": []
+    "records_in_target_class": 848,
+    "status_counts": {
+        "200": 840,
+        "302": 143,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        [
+            "GET /login.php HTTP/1.1",
+            104
+        ],
+        [
+            "GET /home.php HTTP/1.1",
+            91
+        ],
+        [
+            "GET /css/normalize.css HTTP/1.1",
+            38
+        ],
+        [
+            "GET /css/bootstrap.min.css HTTP/1.1",
+            37
+        ],
+        [
+            "GET /js/vendor/jquery-1.12.0.min.js HTTP/1.1",
+            37
+        ]
+    ]
 }
